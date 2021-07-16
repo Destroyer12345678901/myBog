@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  font-family: Comic Sans MS;
+  background: linear-gradient:(#fcba03 0%,#4287f5 100%);
+  background-repeat:no-repeat;
+}
+h1{
+  text-shadow: 2px 2px #00eff8;
+  font-size: 20px;
+}
+img{
+  border-radius: 50%;
+  width1:500px;
+  height:100px;
+}
+h3{
+  font-size: 100px;
+  p{
+    font-family: Roboto;
+  }
